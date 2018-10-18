@@ -1,0 +1,16 @@
+@media(min-width: 768px) {
+  .field-label-responsive {
+    padding-top: .5rem;
+    text-align: right;
+  }
+}
+.btn-cumtome{
+  min-width: 150px;
+  padding: 5px;
+  margin-left: 10px;
+}
+.dflex{
+  display: flex;
+  flex-direction: row;
+  justify-content:center;
+}

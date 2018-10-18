@@ -1,0 +1,7 @@
+<ul>
+  <li *ngFor="let item of items | async">
+    {{ item.name }}
+  </li>
+</ul>
+test
+<button (click)="addItem({'name':'test123'});">Thêm store</button>
